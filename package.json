@@ -1,0 +1,17 @@
+{
+  "name": "broadcast-bot-v3",
+  "version": "3.0.0",
+  "description": "Advanced Discord Multi-Token Broadcast Bot with Real-Time Progress, Speed Controls, and Role Filtering",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node test/verify.js"
+  },
+  "author": "xseif",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.6.1"
+  }
+}
